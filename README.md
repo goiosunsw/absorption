@@ -31,9 +31,9 @@ python tf_from_rec.py audio1.aup 3 2 5 4 audio2.aup 1 0 [more options]
 ```
 
 means: 
-* use channels 3 and 2 from audio1.aup
-* use channels 5 and 4 from audio1.aup
-* use channels 1 and 0 from audio2.aup
+* use channels 3 and 2 from `audio1.aup`
+* use channels 5 and 4 from `audio1.aup`
+* use channels 1 and 0 from `audio2.aup`
 
 
 ## Transfer function measurement
